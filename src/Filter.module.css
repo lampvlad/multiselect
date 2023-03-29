@@ -1,0 +1,8 @@
+.selectedOption:hover {
+    color: red;
+}
+
+.selectedOption {
+    cursor: 'pointer';
+    margin-right: '5px';
+}
